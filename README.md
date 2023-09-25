@@ -9,15 +9,15 @@ TrustDrive is also highly secure, using SmartContract to protect user data.
 
 TrustDrive can be used by educational institutes to store a wide variety of documents, including student transcripts, diplomas, and certificates. This can help to prevent document forgery and ensure that the integrity of educational records is maintained.
 
-Use these command to run locally
+Use these command to run locally  <br/>
 
-for backend
+for backend  <br/>
 
-1.)  `npm i`
-2.) `npx hardhat node` to run the hardhat chain
-3.) `npx hardhat run scripts/deploy.js` to compile the deploy.js 
+1.)  `npm i` <br/>
+2.) `npx hardhat node` to run the hardhat chain  <br/>
+3.) `npx hardhat run scripts/deploy.js` to compile the deploy.js  <br/>
 
-for frontend 
+for frontend  <br/>
 
-1.) npm i
-2.) npm start
+1.) npm i <br/>
+2.) npm start <br/>
